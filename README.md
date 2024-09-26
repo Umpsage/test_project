@@ -8,3 +8,8 @@
 ```python
 for i in range(0,100):
   print(i)
+```
+```javascript
+  let button = document.get ElementByld("btn")
+  console.log(button)
+```
